@@ -21,7 +21,7 @@ Analysis of global and Turkey-specific temperature trends using NASA GISTEMP and
 
 ---
 
-# Iklim Degisikligi Analizi
+# İklim Degisikligi Analizi
 
 NASA GISTEMP ve Berkeley Earth veri setleri kullanilarak kuresel ve Turkiye'ye ozgu sicaklik trendlerinin analizi.
 
