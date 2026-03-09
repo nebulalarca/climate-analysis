@@ -1,4 +1,4 @@
-readme = """# Climate Change Analysis
+##readme = """# Climate Change Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
