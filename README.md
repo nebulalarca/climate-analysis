@@ -1,4 +1,4 @@
-# Climate Change Analysis
+# Climate Change Time Series Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
